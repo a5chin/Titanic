@@ -1,4 +1,6 @@
 venv
 data
+temp
 .ipynb_checkpoints
 .idea
+*.log

@@ -1,4 +1,8 @@
 jupyterlab
 notebook
+nodejs
+npm
+numpy=1.20.0
 pandas
+pycaret
 seaborn
